@@ -2,7 +2,7 @@
 
 ## 简介
 
-这个仓库包含了CascadeTabNet的PyTorch实现，CascadeTabNet是一种用于端到端表格检测和结构识别的方法。它的原论文为[CascadeTabNet: An approach for end-to-end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629)。你可以在[原作者的GitHub仓库](https://github.com/DevashishPrasad/CascadeTabNet/tree/master)上找到源代码和更多细节。
+这个仓库仅完成了CascadeTabNet的推理部分，CascadeTabNet是一种用于端到端表格检测和结构识别的方法。它的原论文为[CascadeTabNet: An approach for end-to-end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629)。你可以在[原作者的GitHub仓库](https://github.com/DevashishPrasad/CascadeTabNet/tree/master)上找到源代码和更多细节。也可在[这篇知乎](https://zhuanlan.zhihu.com/p/654721103)找到更具体的实现原理。
 
 ## 实验环境
 
